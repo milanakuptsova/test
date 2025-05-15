@@ -7,4 +7,4 @@ def home():
     return "Приложение работает на Render!"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=100
+    app.run(host='0.0.0.0', port=10000)
